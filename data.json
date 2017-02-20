@@ -1,0 +1,15 @@
+
+data = '[{"className": "a000000","name": "Manish","dept": "<ul><li>Aid</li><li>Desig</li></ul>","children":[ {"className": "A121212","name": "Satya", "dept": "product dept" },{ "className": "A222222", "name": "Sapan", "dept": "R&D dept" },{ "className": "A123123","name": "Pankaj", "dept": "finance dept" }]},{"className": "a121212","name": "Satya","dept": "<ul><li>Aid</li><li>Desig</li></ul>","children":[ { "className" : "A591060" , "name": "Sanyam", "dept": "product dept" },{ "className": "A333333", "name": "Mayank", "dept": "R&D dept" },{ "className": "A555555","name": "Gaurav", "dept": "finance dept" }]}]';
+
+
+/*data = "[
+"className": "root-node",
+"name": "Brian Conroy",
+"dept": "<ul><li>Sanyam</li><li>Bhatia</li></ul>",
+"children": [
+  { "className": "drill-down asso-rd","name": "Bo Miao", "dept": "product dept" },
+  { "className": "drill-down asso-rd", "name": "Su Miao", "dept": "R&D dept" },
+  { "className": "drill-down asso-rd","name": "Hong Miao", "dept": "finance dept" },
+  { "className": "drill-down asso-rd","name": "Chun Miao", "dept": "HR dept" }
+]
+]"*/
